@@ -1,4 +1,4 @@
-// Graph in Adcency List
+// Graph in Adjacency List 
 
 #include <iostream>
 #include <unordered_map>
@@ -78,3 +78,26 @@ int main()
 
     return 0;
 }
+
+
+// Output 
+
+// Enter the Number of Nodes : 
+// 5 
+// Enter the Number of Edges : 
+// 5
+// 0 1
+// 1 2
+// 2 3
+// 4 5
+// 6 2
+
+// Adjacency List Representation:
+
+// 6 -> 2,
+// 5 -> 4,
+// 4 -> 5,
+// 0 -> 1,
+// 1 -> 0, 2,
+// 2 -> 1, 3, 6,
+// 3 -> 2,
