@@ -1,4 +1,4 @@
-Graph in Data Structure and Algorithms
+Graph with Data Structure and Algorithms
 ----------------------------------------
 
 1. Adjacency List
